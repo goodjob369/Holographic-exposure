@@ -40,7 +40,7 @@ Holographic exposure/
 │   ├── ProfessionalColorSelectorGUI.m    # 专业颜色选择器
 │   └── ColorSelectionGUI_v3.m            # 颜色选择GUI V3
 │
-└── 05_LiquidCrystal_Algorithms/          # 液晶算法模块
+└── 05_LiquidCrystal_Algorithms/          # 液晶算法模块(暂未实现)
     ├── LiquidCrystalDiffractionSimulator.m           # 液晶衍射模拟器
     ├── LiquidCrystalDiffractionAlgorithms.m          # 液晶衍射算法
     └── LiquidCrystalDiffractionSimulator_Enhanced_v5_Final.m  # 增强版V5
@@ -52,7 +52,7 @@ Holographic exposure/
 
 在MATLAB中运行:
 ```matlab
-cd 'E:\OPTIC sumulation\Exposure\ExposureGenerator_Final\Holographic exposure'
+cd '***\Holographic exposure'
 start_holographic_exposure
 ```
 
